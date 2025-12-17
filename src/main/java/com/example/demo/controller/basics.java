@@ -4,6 +4,6 @@ import org.springframework.web.bind.annotation.*;
 public class basics{
     @GetMapping("/home")
     public String name(){
-        r+eturn "hello world";
+        return "hello world";
     }
 } 
