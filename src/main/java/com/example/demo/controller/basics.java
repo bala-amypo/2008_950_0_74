@@ -6,4 +6,4 @@ public class basics{
     public String name(){
         return "hello world";
     }
-}
+} 
